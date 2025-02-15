@@ -8,7 +8,8 @@ fi
 
 declare -A USERS
 USERS=(
-    ["hitman"]="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFFaS6suIY1Ld3HMTRD1P3woowD8CQETb772tmCSy3hG tommy@TommyStiansen"
+    ["hitman"]="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFFaS6suIY1Ld3HMTRD1P3woowD8CQETb772tmCSy3hG tommy@TommyStiansen
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBStkvvupwk0sNFV//OeQsMB3xv3Heu/Rnc1753qB887 tommy@RedTorchViking"
     ["trollboy"]="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIElnauvqcUmA6Qo5NuInnEjZRZ662PYMa3TRoinZQnpX trollboy@datalake001"
     ["ops"]="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFFaS6suIY1Ld3HMTRD1P3woowD8CQETb772tmCSy3hG tommy@TommyStiansen"
 )
